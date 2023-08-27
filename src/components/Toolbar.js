@@ -1,5 +1,5 @@
 function Toolbar({filters, selected, onSelectFilter}) {
-
+  console.log(selected);
     return (
       <div className="toolbar">
         {filters.map((filter, i) => 
