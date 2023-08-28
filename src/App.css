@@ -17,7 +17,7 @@
   cursor: pointer;
 }
 
-.toolbar-button:hover {
+.--active {
   background-color: #555;
   color: white;
 }
